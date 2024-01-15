@@ -1,0 +1,14 @@
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\bin\Debug\net6.0\Lab4_3.exe
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\bin\Debug\net6.0\Lab4_3.deps.json
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\bin\Debug\net6.0\Lab4_3.runtimeconfig.json
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\bin\Debug\net6.0\Lab4_3.dll
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\bin\Debug\net6.0\Lab4_3.pdb
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.dll
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\refint\Lab4_3.dll
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.pdb
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\Lab4_3.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\Studia\Programowanie\Lab4_3\Lab4_3\obj\Debug\net6.0\ref\Lab4_3.dll
